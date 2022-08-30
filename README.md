@@ -1,6 +1,12 @@
 # book-ml-transformers
 
 - 以下書籍の読解用である。
+  - 機械学習エンジニアのためのTransformers (2022-08にリリース)
+  - https://www.oreilly.co.jp/books/9784873119953/
+
+- 原書側では改訂版があるようだ。
+  - Natural Language Processing with Transformers (2022-06に改訂)
+  - https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
 
 - 公式のGitHubは以下。
   - https://github.com/nlp-with-transformers/notebooks
@@ -14,10 +20,18 @@
 
 |Chapter|Pages|Title(en)|Title(ja)|Colab|
 |:---|:---|:---|:---|:---|
-|0章|i～xxviii||序文・はじめに||
-|1章|p.1～p.22|Introduction|入門Transformers||
-|2章|p.23～p.60|Text Classification|テキスト分類||
-|3章|p.61～p.90|Transformer Anatomy|Transformerの詳細||
+|chap00|i～xxviii   |                        |序文・はじめに                          ||
+|chap01|p.1～p.22   |Introduction            |入門Transformers                        ||
+|chap02|p.23～p.60  |Text Classification     |テキスト分類                            ||
+|chap03|p.61～p.90  |Transformer Anatomy     |Transformerの詳細                       ||
+|chap04|p.91～p.128 |Multilingal NER         |多言語の固有表現認識                    ||
+|chap05|p.129～p.148|Text Generation         |テキスト生成                            ||
+|chap06|p.149～p.172|Summarization           |要約                                    ||
+|chap07|p.173～p.220|Question Answering      |質問応答                                ||
+|chap08|p.221～p.262|Model Compression       |Transformersの高速化                    ||
+|chap09|p.263～p.310|Few to No Labels        |ラベルのないまたは少ない状況への対応方法||
+|chap10|p.311～p.357|Transformer from scratch|Transformerをゼロから学習する           ||
+|chap11|p.359～p.386|Future Directions       |Transformerの未来                       ||
 
 ## 0. [はじめに](ml-transformers-chap00.ipynb)
 
