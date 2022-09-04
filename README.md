@@ -20,18 +20,18 @@
 
 |Chapter|Pages|Title(en)|Title(ja)|Colab|
 |:---|:---|:---|:---|:---|
-|chap00|i～xxviii   |                        |序文・はじめに                          ||
-|chap01|p.1～p.22   |Introduction            |入門Transformers                        ||
-|chap02|p.23～p.60  |Text Classification     |テキスト分類                            ||
-|chap03|p.61～p.90  |Transformer Anatomy     |Transformerの詳細                       ||
-|chap04|p.91～p.128 |Multilingal NER         |多言語の固有表現認識                    ||
-|chap05|p.129～p.148|Text Generation         |テキスト生成                            ||
-|chap06|p.149～p.172|Summarization           |要約                                    ||
-|chap07|p.173～p.220|Question Answering      |質問応答                                ||
-|chap08|p.221～p.262|Model Compression       |Transformersの高速化                    ||
-|chap09|p.263～p.310|Few to No Labels        |ラベルのないまたは少ない状況への対応方法||
-|chap10|p.311～p.357|Transformer from scratch|Transformerをゼロから学習する           ||
-|chap11|p.359～p.386|Future Directions       |Transformerの未来                       ||
+|chap00|i～xxviii               |                        |序文・はじめに                          ||
+|chap01|p.1～p.22 (22 pages)    |Introduction            |入門Transformers                        ||
+|chap02|p.23～p.60 (38 pages)   |Text Classification     |テキスト分類                            ||
+|chap03|p.61～p.90 (30 pages)   |Transformer Anatomy     |Transformerの詳細                       ||
+|chap04|p.91～p.128 (38 pages)  |Multilingal NER         |多言語の固有表現認識                    ||
+|chap05|p.129～p.148 (20 pages) |Text Generation         |テキスト生成                            ||
+|chap06|p.149～p.172 (24 pages) |Summarization           |要約                                    ||
+|chap07|p.173～p.220 (58 pages) |Question Answering      |質問応答                                ||
+|chap08|p.221～p.262 (42 pages) |Model Compression       |Transformersの高速化                    ||
+|chap09|p.263～p.310 (48 pages) |Few to No Labels        |ラベルのないまたは少ない状況への対応方法||
+|chap10|p.311～p.357 (47 pages) |Transformer from scratch|Transformerをゼロから学習する           ||
+|chap11|p.359～p.386 (28 pages) |Future Directions       |Transformerの未来                       ||
 
 ## 0. [はじめに](ml-transformers-chap00.ipynb)
 
